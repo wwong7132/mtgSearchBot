@@ -15,5 +15,5 @@ multiple results no link will be returned.
 [[Lightning Bolt]]
 
 Bot will return: 
-  http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442130
+http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442130
 ```
