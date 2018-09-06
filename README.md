@@ -7,9 +7,11 @@ TOKEN = #custom token goes here
 ```
 
 ## Use
-The bot will search for a term inbetween two brackets on each side. A message will be 
-returned with a message with a link if a single result has been found. In the case of
-multiple results no link will be returned.
+The bot will search for a term inbetween two brackets on each side.
+
+A message will be returned with a message with a link if a single result has been found.
+
+In the case of multiple results no link will be returned.
 
 ### Example
 ```
